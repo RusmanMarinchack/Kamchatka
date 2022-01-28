@@ -748,6 +748,7 @@ body {
   visibility: hidden;
   background: rgba(0, 0, 0, 0.6);
   z-index: 16;
+  overflow: auto;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
 }
