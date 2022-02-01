@@ -95,6 +95,7 @@ body{
       height: 50px;
       fill: $colorGrin;
       transition: all 0.4s;
+      cursor: pointer;
       &:hover{
         fill: $colorOreng;
       }
